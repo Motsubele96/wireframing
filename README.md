@@ -78,6 +78,9 @@ Wireframes provide a strategic overview of a product’s layout and function. By
 Wireframes can vary in **fidelity**, depending on how detailed and polished they are. Understanding the difference helps choose the right type for each stage of the design process.
 
 ---
+## Types of wireframes
+
+   *Low-Fidelity and High-Fidelity Wireframes
 
 ### 📝 Low-Fidelity Wireframes
 
