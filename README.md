@@ -73,14 +73,9 @@ A login wireframe might include input fields for "Username" and "Password" with 
 Wireframes provide a strategic overview of a product’s layout and function. By focusing on structure rather than style, they help teams validate ideas, streamline collaboration, and build user-centric designs from the ground up.
 ---
 
-## 🎚️ Low-Fidelity vs. High-Fidelity Wireframes
+## 🎚️ Types of wireframes
 
 Wireframes can vary in **fidelity**, depending on how detailed and polished they are. Understanding the difference helps choose the right type for each stage of the design process.
-
----
-## Types of wireframes
-
-   *Low-Fidelity and High-Fidelity Wireframes
 
 ### 📝 Low-Fidelity Wireframes
 
