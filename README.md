@@ -71,3 +71,66 @@ A login wireframe might include input fields for "Username" and "Password" with 
 ## 📌 Summary
 
 Wireframes provide a strategic overview of a product’s layout and function. By focusing on structure rather than style, they help teams validate ideas, streamline collaboration, and build user-centric designs from the ground up.
+---
+
+## 🎚️ Low-Fidelity vs. High-Fidelity Wireframes
+
+Wireframes can vary in **fidelity**, depending on how detailed and polished they are. Understanding the difference helps choose the right type for each stage of the design process.
+
+---
+
+### 📝 Low-Fidelity Wireframes
+
+**Definition**:  
+These are basic, often hand-drawn or grayscale wireframes that focus on layout and structure rather than aesthetics or functionality.
+
+**Characteristics**:
+- Simple shapes (boxes, lines, placeholders)
+- Minimal or no styling
+- Static layout (no interactivity)
+- Often created on paper or with basic tools like Balsamiq
+
+**When to Use**:
+- Early brainstorming and planning
+- Validating structure and content hierarchy
+- Quick feedback and iterations
+
+🔍 **Example Use Case**:  
+Sketching a rough homepage layout with a header, nav bar, main content area, and footer to share with stakeholders for early feedback.
+
+---
+
+### 🎨 High-Fidelity Wireframes
+
+**Definition**:  
+Detailed and polished wireframes that closely resemble the final design. They include accurate spacing, fonts, and even real content or placeholder text.
+
+**Characteristics**:
+- Precise layout with grid systems
+- Realistic UI elements (buttons, forms, icons)
+- May include limited interactivity or links
+- Often created using tools like Figma, Adobe XD, or Sketch
+
+**When to Use**:
+- Preparing for user testing
+- Handoff to developers
+- Demonstrating visual hierarchy and usability
+
+🔍 **Example Use Case**:  
+A pixel-perfect wireframe of a mobile checkout screen, showing button states, error messages, and form behavior for usability testing.
+
+---
+
+### 📊 Comparison Table
+
+| Feature               | Low-Fidelity              | High-Fidelity                |
+|----------------------|---------------------------|------------------------------|
+| Detail Level         | Minimal                   | Highly Detailed              |
+| Tools Used           | Pen & paper, Balsamiq     | Figma, Sketch, Adobe XD      |
+| Visual Design        | None                      | Close to final design        |
+| Content              | Placeholders              | Real or realistic text/images|
+| Best For             | Ideation & early feedback | Testing & developer handoff  |
+
+---
+
+By choosing the right fidelity at the right time, teams can save time, reduce miscommunication, and build more effective products.
