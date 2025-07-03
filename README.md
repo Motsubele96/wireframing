@@ -132,3 +132,48 @@ A pixel-perfect wireframe of a mobile checkout screen, showing button states, er
 ---
 
 By choosing the right fidelity at the right time, teams can save time, reduce miscommunication, and build more effective products.
+
+
+---
+
+## 🛠️ Popular Wireframing Tools
+
+Choosing the right tool can make the wireframing process faster, more collaborative, and easier to manage. Below are some of the most commonly used wireframing tools:
+
+### 🔹 Balsamiq
+
+A user-friendly tool focused on low-fidelity wireframes. It uses hand-drawn-style components to keep the focus on structure rather than visual design.
+
+- Great for beginners
+- Fast prototyping
+- Drag-and-drop interface
+
+---
+
+### 🔹 Adobe XD
+
+A powerful design tool from Adobe that supports wireframing, UI design, and prototyping in one place.
+
+- High-fidelity wireframing
+- Interactive prototypes
+- Integration with Creative Cloud
+
+---
+
+### 🔹 Sketch
+
+A macOS-only design tool popular among UI/UX professionals.
+
+- Vector-based design
+- Plugins for wireframing and prototyping
+- Clean interface for precision design
+
+---
+
+### ⭐ Figma (Recommended)
+
+**Figma** is a cloud-based design tool that supports everything from wireframing to high-fidelity UI design and team collaboration—all in one place.
+
+#### 🔍 Key Features:
+- **Browser-Based**: No installation needed; accessible anywhere.
+- **Real-Time Collaboration**: Multiple team members can work on the same file simultaneously.
